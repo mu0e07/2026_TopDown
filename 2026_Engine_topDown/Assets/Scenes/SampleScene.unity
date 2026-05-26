@@ -3166,21 +3166,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Sprite
   moveSpeed: 5
   spriteUp:
-  - {fileID: -8393169711176511969, guid: bda10a2e7f0453f46a21d669809a2ac0, type: 3}
-  - {fileID: -3009659751897613197, guid: df1052f3dbad9144aa6112b9b3396a1a, type: 3}
-  - {fileID: -87951857334250037, guid: c29c13e8d2807ba47ab8e7e476f621c7, type: 3}
+  - {fileID: -3664361406707032137, guid: 3deab14f3673ba0428af2e2bc2583bee, type: 3}
   spriteDown:
-  - {fileID: 8894105245806051599, guid: 763c50012e951ba40802b729694ce949, type: 3}
-  - {fileID: 1259403999637839662, guid: 72d1b9ac36b337c49ad8508599d90e86, type: 3}
-  - {fileID: 7926631094506107384, guid: 95155e51803f89c4c82272155c6ed1df, type: 3}
+  - {fileID: 771364963350191844, guid: f01d1729fcc1d164ea4d33b48908038e, type: 3}
   spriteLeft:
-  - {fileID: 7827470447151488021, guid: 9ef6739ca4d078243a0eda6d52d764c1, type: 3}
-  - {fileID: -1001214729499911652, guid: df17defa29aff964b88663489adc44b1, type: 3}
-  - {fileID: -6994915466344122352, guid: 3295766baca974f4aaf9cdc140e4b2d6, type: 3}
+  - {fileID: -7956603295074221114, guid: 0b2ce34fba7d2ee48825057cee9d1dd2, type: 3}
   spriteRight:
-  - {fileID: 5534413525631299974, guid: 4ec0d9d67ccdc944081581ece235edb0, type: 3}
-  - {fileID: 2823216415284645959, guid: ca59f057d4b43974bb1c7614bb3a4daf, type: 3}
-  - {fileID: -7489089114631842765, guid: 1f8d5e03291277940936018941f58329, type: 3}
+  - {fileID: -535745665572758212, guid: c3976e04b2d6d2a419231f35366e8569, type: 3}
   frameTime: 0.15
 --- !u!212 &1567615108
 SpriteRenderer:
